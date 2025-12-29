@@ -9,5 +9,12 @@ This repository documents the deployment of an open-source static pet-themed web
 ## Live Website
 🔗 http://project1fun.s3-website.ap-south-1.amazonaws.com/
 
+
 ## Deployment Proof
-Screenshots showing the live website and AWS hosting setup are available in the `deployment-proof` folder.
+
+Screenshots and screen recording demonstrating:
+- AWS S3 bucket configuration
+- Static website hosting enabled
+- Public access permissions
+- Live website accessibility
+

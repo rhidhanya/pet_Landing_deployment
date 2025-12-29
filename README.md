@@ -11,7 +11,6 @@ This repository documents the deployment of an open-source static pet-themed web
 
 
 ## Deployment Proof
-
 Screenshots and screen recording demonstrating:
 - AWS S3 bucket configuration
 - Static website hosting enabled
